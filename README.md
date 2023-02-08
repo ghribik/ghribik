@@ -1,7 +1,7 @@
 <h1 align='center' paddingBottom='10px'>
-  Welcome to Gabe's Profile!
+  Welcome to Gabe's Profile
   <p align="center">
-       <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+web+and+app+developer;Always+learning+new+things" />
+       <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer/Full-Stack+Dev;Always+learning+new+things!" />
    </p>
 </h1>
 
