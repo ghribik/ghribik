@@ -25,9 +25,9 @@
   
   <div align='center'>
   
-  [Live Coding Interview Hub](https://github.com/gschool-blue-ocean/admissions-hub) - Group capstone project
+  [Live Coding Interview Hub](https://github.com/ghribik/admissions-hub) - Group capstone project
   
-  [Treat Yo' Shelf](https://github.com/ghribik/Bookstore_App) - Book store and inventory application
+  [Treat Yo' Shelf](https://github.com/ghribik/Bookstore_App) - Solo book store/inventory application
   
   </div>
 
