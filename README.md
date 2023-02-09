@@ -22,10 +22,14 @@
 </p>
 
   <h2 align='center' paddingBottom='10px'>Projects:</h2>
- 
+  
+  <div align='center'>
+  
   [Live Coding Interview Hub](https://github.com/gschool-blue-ocean/admissions-hub) - Group capstone project
   
   [Treat Yo' Shelf](https://github.com/ghribik/Bookstore_App) - Book store and inventory application
+  
+  </div>
 
   <h2 align='center' paddingBottom='10px'>Languages and Tools:</h2>
 
