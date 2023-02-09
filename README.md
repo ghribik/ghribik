@@ -21,6 +21,12 @@
 <a href="http://www.github.com/ghribik"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghribik&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 </p>
 
+  <h2 align='center' paddingBottom='10px'>Projects:</h2>
+ 
+  [Live Coding Interview Hub](https://github.com/gschool-blue-ocean/admissions-hub) - Group capstone project
+  
+  [Treat Yo' Shelf](https://github.com/ghribik/Bookstore_App) - Book store and inventory application
+
   <h2 align='center' paddingBottom='10px'>Languages and Tools:</h2>
 
   <div align='center'>
