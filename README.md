@@ -1,9 +1,9 @@
 <h1 align='center' paddingBottom='10px'>
   Welcome to Gabe's Profile
-  <p align="center">
-       <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer/Full-Stack+Dev;Always+learning+new+things!" />
-   </p>
 </h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=+Software+Engineer+and+Technophile...;Growth+Mindset+/+Lifelong+Learner..." />
+</div>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/gabehribik/" target="_blank" rel="noreferrer noopener">
