@@ -1,6 +1,7 @@
 <h1 align='center' paddingBottom='10px'>
-  Welcome to Gabe's Profile
+  Welcome to Gabe-Hub
 </h1>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=+Software+Engineer+and+Technophile...;Growth+Mindset+/+Lifelong+Learner..." />
 </div>
@@ -15,25 +16,28 @@
   </a> 
 </p> 
 
-
 <p align=center>
-<a href="http://www.github.com/ghribik"><img src="https://github-readme-stats.vercel.app/api?username=ghribik&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="Gabe's GitHub stats" /></a>
-<a href="http://www.github.com/ghribik"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghribik&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+  <a href="http://www.github.com/ghribik">
+    <img src="https://github-readme-stats.vercel.app/api?username=ghribik&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=ffffff&bg_color=00000000&hide_border=true&show_icons=true" alt="Gabe's GitHub stats" />
+  </a>
+  <a href="http://www.github.com/ghribik">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghribik&stroke=14b8a6&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" />
+  </a>
 </p>
 
-  <h2 align='center' paddingBottom='10px'>Projects:</h2>
+<h2 align='center' paddingBottom='10px'>Projects:</h2>
   
-  <div align='center'>
+<div align='center'>
   
   [Live Coding Interview Hub](https://github.com/ghribik/admissions-hub) - Group capstone project
   
   [Treat Yo' Shelf](https://github.com/ghribik/Bookstore_App) - Solo book store/inventory application
   
-  </div>
+</div>
 
-  <h2 align='center' paddingBottom='10px'>Languages and Tools:</h2>
+<h2 align='center' paddingBottom='10px'>Languages and Tools:</h2>
 
-  <div align='center'>
+<div align='center'>
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -59,8 +63,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   
-  </div>
-  
-  <p align='center'>
+</div>
+
+<p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghribik&show_icons=true&locale=en&layout=compact" alt="ghribik" />
 </p>
