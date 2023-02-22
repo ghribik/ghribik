@@ -11,7 +11,7 @@
    </a>
   <a href="mailto:g.hribik@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-     <img src="https://komarev.com/ghpvc/?username=Fcastro958&style=for-the-badge" />
+     <img src="https://komarev.com/ghpvc/?username=ghribik&style=for-the-badge" />
   </a> 
 </p> 
 
